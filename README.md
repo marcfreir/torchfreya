@@ -1,4 +1,4 @@
 # torchfreya
-A simple SSRL framework for GPR and Gephysical Imagery data
+A simple SSRL framework for GPR and Geophysical Imagery data
 
 > Inspired by TorchGeo
