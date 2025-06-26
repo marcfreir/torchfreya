@@ -5,7 +5,7 @@ A simple SSRL framework for GPR and Geophysical Imagery data
 
 How to cite:
 
-APA Style
+APA Style <br>
 Freire, M. (2025). TorchFreya: A simple SSRL framework for GPR and Geophysical Imagery data (1.0.0.0). Zenodo. https://doi.org/10.5281/zenodo.15729937
 
 Bib Style
