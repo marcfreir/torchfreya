@@ -6,7 +6,7 @@ import lightning as L
 from collections import deque
 from typing import Optional, Any, Callable, Sequence, List, Tuple
 import numpy as np
-from torchfreya.transforms.symbiosis_augmentations4 import RandomAugmentations
+from torchfreya.augmentations.symbiosis_augmentations_v1 import RandomAugmentations
 
 
 class DynamicBoWPredictionHead(nn.Module):
