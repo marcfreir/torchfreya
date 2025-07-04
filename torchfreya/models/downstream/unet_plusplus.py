@@ -101,8 +101,8 @@ class UNetPlusPlusDeepLabV3(nn.Module):
     """UNet++ with DeepLabV3 ResNet50 backbone for semantic segmentation.
 
     Combines DeepLabV3's multi-scale feature extraction with UNet++'s nested skip
-    connections for robust semantic segmentation, particularly suited for seismic
-    image segmentation tasks.
+    connections for robust semantic segmentation, particularly suited for image 
+    segmentation tasks.
 
     Parameters
     ----------
